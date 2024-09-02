@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+If the min and max temps are the same it is not a syntax error; it is a data error from the API.
 
 ## Available Scripts
 
