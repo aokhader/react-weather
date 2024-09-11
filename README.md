@@ -14,3 +14,5 @@ After you pick the city, the weather and some related info will be displayed:
 
 Additionally, the weather forecast of the week will be displayed, and when you click on a certain day, the weather information of that day will be shown:
 ![OpenDropDownOfWeather](/public/pictures/OpenDropDown.png)
+
+For more information on the weather of the city, I've created a button that will take you to a more detailed weather information app.
